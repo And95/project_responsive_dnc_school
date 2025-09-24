@@ -1,4 +1,4 @@
-# project_Responsiveness_School_DNC
+# project_Responsiveness_DNC_School
 
 Project developed at the DNC school to practice responsiveness.
 
