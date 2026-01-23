@@ -2,6 +2,6 @@
 
 Project developed at the DNC school to practice responsiveness.
 
-Link: https://projectresponsivenesscoursebyandreg.netlify.app
+Link: https://pj-responsivenesscoursebyag.netlify.app
 
 Obs.: Para fins demonstrativos(netlify.com).
