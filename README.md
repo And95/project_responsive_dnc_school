@@ -1,7 +1,17 @@
-# project_responsive_dnc_school
+# Responsive DNC School
 
-Project developed at the DNC school to practice responsiveness.
+Project developed to practice responsive web design.
 
-Link: https://pj-responsivenesscoursebyag.netlify.app
+## 🚀 Live Demo
 
-Obs.: Para fins demonstrativos(netlify.com).
+https://pj-responsivenesscoursebyag.netlify.app
+
+## 🛠️ Technologies
+
+- HTML5
+- CSS3
+- JavaScript
+
+## 👨‍💻 Author
+
+André Gonzaga
